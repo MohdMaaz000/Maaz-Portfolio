@@ -134,6 +134,13 @@ body.dark .header {
   gap: 18px;
   font-size: 22px;
 }
+.hero-social {
+  display: flex;
+  gap: 1rem;
+}
+.hero-social a i {
+  font-size: 1.5rem;
+}
 .hero-social a { color: inherit; }
 
 /* About */
